@@ -1,0 +1,11 @@
+#logo {
+    align-content: center;
+}
+#searchform {
+    margin: center;
+}
+p {
+    color: blue;
+    font-family: "Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
+    font-size: 40px
+}
